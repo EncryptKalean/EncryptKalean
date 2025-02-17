@@ -43,7 +43,7 @@ Meu nome é Kauan Leandro, tenho 20 anos e mexo com computadores desde criança.
       alt="GitHub Stats" 
       height="200"
       width="50%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptkalean&theme=tokyonight&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptKalean&theme=tokyonight&layout=compact" 
   />
   
   <img 
