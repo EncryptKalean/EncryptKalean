@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Meu nome é Kauan Leandro, tenho 20 anos e mexo com computadores desde criança. Sempre achei a programação muito fascinante, apesar disso, nunca a estudei. Comecei a estudar programação no final de 2024, quando conheci o curso Full-Stack da Danki-code. Por enquanto, estou focado no Front-end. Sempre achei, e ainda acho, muito interessante que, com alguns caracteres, podemos criar um site ou um aplicativo do zero.
+Meu nome é Kauan Leandro, tenho 20 anos e mexo com computadores desde criança. Sempre me fascinou a ideia de criar sites e programas usando apenas algumas linhas de código. Comecei a estudar programação no final de 2024, quando conheci o curso Full-Stack da Danki-code. Por enquanto, estou focado no Front-end, mas já estou de olho no Back-end
 
 ---
 
